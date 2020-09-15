@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/damiensawyer/ballmerpeak/issues"
   },
-  "homepage": "https://github.com/damiensawyer/ballmerpeak#readme"
+  "homepage": "https://github.com/damiensawyer/ballmerpeak#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
 }
