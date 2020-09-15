@@ -1,0 +1,19 @@
+{
+  "name": "ballmerpeak",
+  "version": "1.0.0",
+  "description": "Selection of Misc Functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damiensawyer/ballmerpeak.git"
+  },
+  "author": "K.Pruehss, D.Sawyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damiensawyer/ballmerpeak/issues"
+  },
+  "homepage": "https://github.com/damiensawyer/ballmerpeak#readme"
+}
