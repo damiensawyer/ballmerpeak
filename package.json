@@ -30,7 +30,7 @@
   ],
   "jest": {
     "transform": {
-      "^.+\\.tsx?$": "ts-jest"
+      "^.+\\.ts?$": "ts-jest"
     },
     "moduleFileExtensions": [
       "ts",
